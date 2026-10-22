@@ -1,0 +1,13 @@
+
+# JSSP
+
+Build and compile:
+
+```
+cmake -B build && cmake --build build
+```
+
+Run:
+```
+./build/parser
+```
